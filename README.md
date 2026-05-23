@@ -29,6 +29,7 @@ Explicación del sistema de interactividad
 ¿Cómo se procesan y transforman? A través de la función `dist()`, el sistema calcula la cercanía del cursor a cada elemento. Mediante la función `map()`, el movimiento lineal del mouse se transforma en un rango controlado para el grosor de las líneas y la escala de las figuras.
 ¿Qué respuesta visual producen? Una onda de distorsión visual y "vibración" que sigue la trayectoria del cursor, rompiendo la cuadrícula rígida inicial.
 
+Imagenes referentes 
 <img width="1200" height="1200" alt="E27DNL2XMAMK11M" src="https://github.com/user-attachments/assets/6a5390f3-d637-4b57-89b5-04f8b158fceb" />
 <img width="400" height="398" alt="blaze-1-1962" src="https://github.com/user-attachments/assets/27ed491b-7d28-44b7-9ec2-9d599df4ac8e" />
 
